@@ -1,2 +1,2 @@
-# MIS-325-SQL
+# SQL MIS 325
 HW based on knowledge of SQL
